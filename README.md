@@ -1,8 +1,7 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
+
   <img src="banner.png" alt="Nitin | Full Stack Developer" />
 
-</p>
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm <br/>Kasturi Nitin Kumar</h1>
