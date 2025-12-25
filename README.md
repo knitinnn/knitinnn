@@ -1,6 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
-  <img src="banner.png" alt="Nitin | Full Stack Developer" />
+  
+  ![Nitin | Full Stack Developer](banner.png)
 
 
 <!-- ===================== INTRO ===================== -->
