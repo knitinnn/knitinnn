@@ -1,6 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="banner.png" alt="Nitin | Full Stack Developer" width="100%" />
+  <img src="banner.png" alt="Nitin | Full Stack Developer" />
+
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -128,7 +129,7 @@
 <hr/>
 
 <!-- ===================== STATS ===================== -->
-<h2 align="left">GitHub Stats</h2>
+<!-- <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight"/>
@@ -138,7 +139,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
 </p>
 
-<hr/>
+<hr/> -->
 
 <!-- ===================== LEARNING ===================== -->
 <h2 align="left">Currently Learning</h2>
