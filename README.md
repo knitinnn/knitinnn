@@ -15,7 +15,6 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-🚀 Final-year Computer Science student <br/>
 💻 Actively working on MERN & backend projects <br/>
 🧠 Passionate about building scalable, real-world applications
 </p>
