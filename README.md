@@ -22,76 +22,53 @@
 <hr/>
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="left">Tech Stack & Tools</h2>
+<h2 align="left">🚀 Technical Skills & Tools (2021 – 2025)</h2>
 
-<!-- Frontend -->
-<h4 align="left">Frontend</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</div>
+  <!-- Languages -->
+  <h4>Programming Languages</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py" />
+  </a>
+  <br/><br/>
 
-<br/>
+  <!-- Backend -->
+  <h4>Backend & APIs</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+  <p>
+    🔹 <b>RESTful APIs</b> &nbsp;&nbsp; 🔹 <b>JWT Authentication</b> &nbsp;&nbsp; 🔹 <b>MVC Architecture</b>
+  </p>
+  <br/>
 
-<!-- Backend -->
-<h4 align="left">Backend</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</div>
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  </a>
+  <p><i>Foundational knowledge in React.js</i></p>
+  <br/>
 
-<p align="left">
-🔹 RESTful APIs &nbsp;&nbsp; 🔹 JWT Authentication &nbsp;&nbsp; 🔹 MVC Architecture
-</p>
+  <!-- Databases -->
+  <h4>Databases</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  </a>
+  <br/><br/>
 
-<br/>
+  <!-- DevOps & Deployment -->
+  <h4>Deployment & DevOps</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,render,railway" />
+  </a>
+  <br/><br/>
 
-<!-- Databases -->
-<h4 align="left">Databases</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</div>
-
-<br/>
-
-<!-- Tools -->
-<h4 align="left">Tools</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-</div>
-
-<br/>
-
-<!-- Deployment -->
-<h4 align="left">Deployment & Version Control</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
+  <!-- Tools -->
+  <h4>Tools & Version Control</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+  </a>
 </div>
 
 <hr/>
