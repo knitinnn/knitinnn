@@ -22,7 +22,7 @@
 <hr/>
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="left">🚀 Technical Skills & Tools (2021 – 2025)</h2>
+<h2 align="left">🚀 Technical Skills & Tools </h2>
 
 <div align="left">
   <!-- Languages -->
