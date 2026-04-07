@@ -124,14 +124,23 @@
 <hr/>
 
 <!-- ===================== STATS ===================== -->
- <h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knitinnn&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg" /> -->
+  https://github.com/knitinnn/knitinnn/blob/output/github-contribution-grid-snake-dark.svg?raw=true
 </p>
 <hr/> 
 
@@ -154,17 +163,13 @@
 📬 Feel free to reach out for teamwork and learning opportunities
 </p>
 
-<p align="center">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" /> -->
-  img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true" />
+<!-- <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnikeshTiwari&theme=react-dark&area=true" />
 </p> -->
+
 
 
