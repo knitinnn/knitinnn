@@ -14,7 +14,6 @@
 <!-- ===================== ABOUT ME ===================== -->
 <h2 align="left">About Me</h2>
 
- 
 <p align="left">
 💻 Actively working on MERN & backend projects <br/>
 🧠 Passionate about building scalable, real-world applications
@@ -124,25 +123,17 @@
 <hr/>
 
 <!-- ===================== STATS ===================== -->
-<h2 align="left">GitHub Stats</h2>
+<!-- <h2 align="left">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knitinnn&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg" /> -->
-  https://github.com/knitinnn/knitinnn/blob/output/github-contribution-grid-snake-dark.svg?raw=true
-</p>
-<hr/> 
+<hr/> -->
 
 <!-- ===================== LEARNING ===================== -->
 <h2 align="left">Currently Learning</h2>
@@ -163,13 +154,22 @@
 📬 Feel free to reach out for teamwork and learning opportunities
 </p>
 
-<!-- <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+<h2 align="left">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knitinnn&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg" />
-</p> -->
-
+</p>
 
 
