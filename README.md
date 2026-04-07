@@ -157,6 +157,7 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AnikeshTiwari&show_icons=true&theme=tokyonight" /> -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
