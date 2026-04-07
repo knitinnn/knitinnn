@@ -126,11 +126,11 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
 </p>
 
 <hr/>
