@@ -129,11 +129,11 @@
 
 <h2 align="left">🐍 Contribution Snake</h2>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg"/>
-</p> -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg"/>
+</p> 
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</p> -->
 
