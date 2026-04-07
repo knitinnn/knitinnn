@@ -154,8 +154,17 @@
 📬 Feel free to reach out for teamwork and learning opportunities
 </p>
 
- ## 🐍 Contribution Snake
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AnikeshTiwari&show_icons=true&theme=tokyonight" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight" />
+</p>
 
-![snake gif](https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AnikeshTiwari&theme=react-dark&area=true" />
+</p> -->
 
 
