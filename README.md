@@ -154,10 +154,8 @@
 📬 Feel free to reach out for teamwork and learning opportunities
 </p>
 
-<h2 align="left">🐍 Contribution Snake</h2>
+ ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+![snake gif](https://raw.githubusercontent.com/knitinnn/knitinnn/output/github-contribution-grid-snake-dark.svg
 
 
