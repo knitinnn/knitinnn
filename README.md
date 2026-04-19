@@ -1,4 +1,4 @@
-![Nitin | Full Stack Developer](banner1.png)
+7![Nitin | Full Stack Developer](banner1.png)
 <h1 align="center">Hi 👋, I'm <br/>Kasturi Nitin Kumar</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student</h3>
 
@@ -108,7 +108,7 @@
 
 <hr/>
 
-<!-- ===================== LEARNING ===================== -->
+<!-- ================== LEARNING ================== -->
 <h2 align="left">Currently Learning</h2>
 
 <ul>
